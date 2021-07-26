@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KensingtonSka
-- 👀 I’m interested in Data Analysis in Physics and NUeroscience.
+- 👀 I’m interested in Data Analysis in Physics and Nueroscience.
 - 🌱 I’m currently learning the math behind common machine learning techniques.
 
 <!---
