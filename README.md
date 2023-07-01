@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KensingtonSka
+- 👋 Hi, I’m Rhys!
 - 👀 I’m interested in Data Analysis in Physics and Nueroscience.
 - 🌱 I’m currently learning the math behind common machine learning techniques.
 
